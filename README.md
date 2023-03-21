@@ -33,7 +33,3 @@ J'ai toujours été passionné par la programmation et la création de sites int
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/JulienPayet974" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/payet-julien/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/JulienPayet974" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienPayet974&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
